@@ -11,7 +11,7 @@ thkkvuiのGithub Pagesへようこそ。
 
 
 ## **Recent Posts**
-1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post)
+1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post.html)
 2. Second Post
 
 
