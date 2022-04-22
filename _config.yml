@@ -3,6 +3,3 @@ theme: jekyll-theme-cayman
 title: Deploy my VUI
 
 description: Welcome to thkkvui GitHub Pages! Bookmark this to keep an eye on my project updates!
-
-plugins:
-  – jemoji
