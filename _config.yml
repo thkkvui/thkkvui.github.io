@@ -1,7 +1,10 @@
 theme: jekyll-theme-cayman
-title: Deploy my VUI
+title: Deploy my VUI　:U+1F680:
 
-description: 「条件付きイベント処理に特化した音声AIの活用法」について
+description: This is thkkvui Github Pages. thkkvuiのGithub Pagesへようこそ。
 # description: Welcome to thkkvui GitHub Pages!   Bookmark this to keep an eye on my project updates!
 
 # show_downloads: true
+
+plugins:
+  - jemoji
