@@ -10,6 +10,14 @@ thkkvuiのGithub Pagesへようこそ。
 - GitHub Pages Privacy Policy [Privacy Policy]()
 
 
+<<<<<<< HEAD
+=======
+## **Recent Posts**
+1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post.html)
+2. Second Post
+
+
+>>>>>>> cdd359df026b110f142969b0c512ff1309c55c21
 ## **Categories**
 - 音声AIの選択
 - 音声AIのtraining
