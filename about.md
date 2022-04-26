@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "first_post"
-date: 2022-04-22
+title: "about"
 ---
 
 ## **about**
