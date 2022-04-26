@@ -1,18 +1,10 @@
-# **Deploy my VUI**
-
 This is thkkvui Github Pages.
 
 thkkvuiのGithub Pagesへようこそ。
 
 ## **information**
-- about [about](https://thkkvui.github.io/about)
-- twitter [twitter](https://twitter.com/thkkvui)
-- GitHub Pages Privacy Policy [Privacy Policy]()
-
-
-## **Recent Posts**
-1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post.html)
-2. Second Post
+- [about Deply my VUI](https://thkkvui.github.io/about)
+- [twitter](https://twitter.com/thkkvui)
 
 
 ## **Categories**
@@ -24,8 +16,12 @@ thkkvuiのGithub Pagesへようこそ。
 
 
 ## **Recent Posts**
-1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022-04-22-first_post.md)
+1. First Post [First Post](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post.html)
 2. Second Post
+
+
+## **GitHub Pages**
+- [about GitHub Pages] (https://pages.github.com)
 
 
 ## **Main Theme**
