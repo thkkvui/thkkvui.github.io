@@ -51,7 +51,7 @@
 
 ## **recent posts**
 - [2022-04-26]
-- [2022-04-22](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first_post.html) 初投稿
+- [2022-04-22](https://github.com/thkkvui/thkkvui.github.io/2022/04/22/first-post.html) 初投稿
 
 
 ## **GitHub Pages**
