@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: Deploy my VUI
+title: Deploy my VUI
 description: Voice AI Validation
 ---
 

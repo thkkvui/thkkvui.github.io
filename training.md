@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deply my VUI
+title: Deploy my VUI
 description: Voice AI Training
 ---
 
