@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "about"
-description: " "
+title: "Deploy my VUI"
+description: "about"
 ---
 
 

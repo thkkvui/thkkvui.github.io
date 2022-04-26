@@ -2,15 +2,16 @@
 
 ## **information**
 - [about](https://thkkvui.github.io/about)
+- [News](https://thkkvui.github.io/news)
 - [twitter (https://twitter.com/thkkvui)](https://twitter.com/thkkvui)
 
 
-## **categories**
-- 音声AIの選択
-- 音声AIのtraining
-- 音声AIのテスト
-- イベントプログラムの構築
-- 音声AIとイベントプログラムのリンク
+## **project categories**
+- [音声AIの選択 / Select Voice AI](https://thkkvui.github.io/select)
+- [音声AIのトレーニング / Voice AI Training](https://thkkvui.github.io/training)
+- [音声AIのテスト / Voice AI Validation](https://thkkvui.github.io/validation)
+- [イベントプログラムの構築 / Create Event Program](https://thkkvui.github.io/event)
+- [音声AIとイベントプログラムのリンク / Link Voice AI to Event Program](https://thkkvui.github.io/linker)
 
 
 
