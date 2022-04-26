@@ -1,10 +1,7 @@
 theme: jekyll-theme-cayman
 title: Deploy my VUI
-
 description: This is thkkvui Github Pages. thkkvuiのGithub Pagesへようこそ。
 # description: Welcome to thkkvui GitHub Pages!   Bookmark this to keep an eye on my project updates!
-
 # show_downloads: true
-
 plugins:
   - jemoji
