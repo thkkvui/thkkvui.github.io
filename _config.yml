@@ -5,3 +5,7 @@ description: This is thkkvui Github Pages. thkkvuiのGithub Pagesへようこそ
 # show_downloads: true
 plugins:
   - jemoji
+
+github:
+  url: https://github.com/thkkvui
+  zip_url:
