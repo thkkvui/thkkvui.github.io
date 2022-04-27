@@ -1,6 +1,6 @@
 ---
 layout: default
-title: first post
+title: "first-post"
 description: 1
 date: 2022-04-22
 categories: None
