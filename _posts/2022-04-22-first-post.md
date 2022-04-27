@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "first post"
-description: 1
 date: 2022-04-22 00:00:00 +0000
-categories: None
+# categories:
 ---
 
 ## **First Post**
