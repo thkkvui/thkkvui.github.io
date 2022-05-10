@@ -7,5 +7,4 @@ plugins:
   - jemoji
 
 github:
-  pages_url: https://github.com/thkkvui/thkkvui.github.io
-  zip_url:
+  pages_repository_url: https://github.com/thkkvui/thkkvui.github.io
