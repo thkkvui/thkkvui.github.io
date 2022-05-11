@@ -5,6 +5,6 @@ description: 音声AIをテストする
 ---
 
 
-# **音声AIをテストする / Voice AI Validation**
+# **音声AIをテストする**
 
 （・・・検討中です）
