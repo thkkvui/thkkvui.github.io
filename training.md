@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Deploy my VUI
-description: Voice AI Training
+description: 音声AIをトレーニングする
 ---
 
 
-# **音声AIをトレーニングする / Voice AI Traning**
+# **音声AIをトレーニングする**
 
 　Main Themeにある遅刻通知プログラムだけでは、音声AIがユーザーを学習したと結論づけることはできません。使う音声データと紐付けるプログラムを増やしながら、起こる変化を計測する必要があります。
 

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Deploy my VUI
-description: Link Voice AI to Event Program
+description: 音声AIとイベントプログラムを紐づける
 ---
 
 
-# **音声AIとイベントプログラムを紐づける/ Link Voice AI to Event Program**
+# **音声AIとイベントプログラムを紐づける**
 
 （・・・検討中です）

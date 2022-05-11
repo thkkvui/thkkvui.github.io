@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deploy my VUI
-description: Voice AI Validation
+description: 音声AIをテストする
 ---
 
 
