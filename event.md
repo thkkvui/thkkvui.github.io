@@ -4,10 +4,9 @@ title: Deploy my VUI
 description: イベントプログラムを構築する
 ---
 
-
 ## **イベントプログラムを構築する**
 
-　イベントプログラムは、Alexa Developer Console(Alexa)とActions on Google(Google Assistant)上で実装したものと、pythonで別途記述したcodeを用意します。
+　イベントプログラムは、Alexa Developer Console (Alexa) とActions on Google (Google Assistant) 上で実装したものと、pythonで記述したcodeを別途用意します。
 
 　ここでは、「構築したプログラムが任意のtrigger（イベント）によって自動的に動作すること」を一応のゴールとしますが、どうやって音声AIとリンクさせるのか？についても考慮しながら環境構築し、次の工程（[音声AIとイベントプログラムを紐づける](https://thkkvui.github.io/linker)）へと繋げていく必要があります。
 
