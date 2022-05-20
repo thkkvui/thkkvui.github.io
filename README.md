@@ -9,11 +9,11 @@ This is thkkvui Github Pages.
 
 
 ## **project categories**
-- [音声AIの選択 / Select Voice AI](https://thkkvui.github.io/select)
-- [音声AIのトレーニング / Voice AI Training](https://thkkvui.github.io/training)
-- [音声AIのテスト / Voice AI Validation](https://thkkvui.github.io/validation)
-- [イベントプログラムの構築 / Create Event Program](https://thkkvui.github.io/event)
-- [音声AIとイベントプログラムのリンク / Link Voice AI to Event Program](https://thkkvui.github.io/linker)
+- [音声AIの選択](https://thkkvui.github.io/select)
+- [音声AIのトレーニング](https://thkkvui.github.io/training)
+- [音声AIのテスト](https://thkkvui.github.io/validation)
+- [イベントプログラムの構築](https://thkkvui.github.io/event)
+- [音声AIとイベントプログラムのリンク](https://thkkvui.github.io/linker)
 
 
 ## **recent posts**
