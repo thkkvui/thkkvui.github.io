@@ -1,9 +1,3 @@
----
-layout: default
-title: Deploy my VUI
-description: " "
----
-
 thkkvuiのGithub Pagesへようこそ。
 
 This is thkkvui Github Pages.
